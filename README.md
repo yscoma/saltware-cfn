@@ -26,8 +26,9 @@
 **Elastic IP** = Elastic IP 부여 여부 선택,\
 **[Next]** 클릭
 
-**참고) 1. Default VPC 및 Subnet 이 설정 되어 있어야 함. \
-** 2. 이벤트 항목에서 생성 및 오류에 대한 이력을 확인 할수 있음.   
+> 참고) 
+> 1. Default VPC 및 Subnet 이 설정 되어 있어야 함. 
+>  2. 이벤트 항목에서 생성 및 오류에 대한 이력을 확인 할수 있음.   
 
 4. **[Next]** &rightarrow; :white_check_mark: I acknowledge that AWS CloudFormation might create IAM resources. &rightarrow; **[Create Stack]**
 
